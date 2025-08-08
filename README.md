@@ -3,7 +3,7 @@
 Code o'clock- and it's always on time ⏳!!
 
 
-![Weather App Preview](./clock.png)
+![Clock App Preview](./clock.png)
 
 A beautifully crafted analog clock built purely with **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to create a functional, real-time analog clock using only frontend technologies.
 
